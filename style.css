@@ -38,6 +38,8 @@ nav{
 .header-contents{
     margin: 80px;
     width: 65vw;
+    display: flex;
+    gap: 13px;
 }
 .header-contents-left{
     width: 50%;
@@ -61,4 +63,9 @@ nav{
     border-radius: 9px;
     background-color: #3882f6;
     color: #F9FAF8;
+}
+.header-contents-right{
+    height: auto;
+    width: 50%;
+    background: #fff;
 }
