@@ -17,3 +17,10 @@ nav{
     width: 65vw;
     justify-content: space-between;
 }
+.nav-logo{
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 600;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+}
