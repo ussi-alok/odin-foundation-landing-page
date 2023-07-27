@@ -24,3 +24,9 @@ nav{
     text-transform: capitalize;
     letter-spacing: 1px;
 }
+.nav-right ul{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    font-size: 18px;
+}
