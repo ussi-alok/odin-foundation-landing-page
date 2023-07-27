@@ -127,8 +127,34 @@ nav{
 }
 .blue-box-container{
     background-color: #fff;
-    height: 280px;
+    height: 300px;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.blue-box{
+    background-color: #3882f6;
+    width: 65vw;
+    padding: 65px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+    border-radius: 20px;
+}
+.container{
+    color: #fff;
+}
+.container > p:nth-child(1){
+    font-size: 30px;
+    font-weight: bold;
+}
+.button{
+    padding: 0 25px;
+    border-style: none;
+    border-radius: 9px;
+    background-color: #3882f6;
+    color: #F9FAF8;
+    border: 3px solid #F9FAF8;
+    height: 45px;
+
 }
