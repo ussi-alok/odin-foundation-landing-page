@@ -12,5 +12,8 @@ header{
 }
 nav{
     display: flex;
+
     align-items: center;
+    width: 65vw;
+    justify-content: space-between;
 }
