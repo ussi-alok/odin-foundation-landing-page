@@ -35,3 +35,7 @@ nav{
     text-decoration: none;
     color: #E5E7EB;
 }
+.header-contents{
+    margin: 80px;
+    width: 65vw;
+}
