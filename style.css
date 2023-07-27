@@ -45,3 +45,20 @@ nav{
     flex-direction: column;
     gap: 17px;
 }
+.header-contents-left p:nth-child(1){
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+.header-contents-left p:nth-child(2){
+    font-size: 18px;
+    color: #F9FAF8;
+}
+.signup{
+    align-self: flex-start;
+    padding: 7px 25px;
+    border-style: none;
+    border-radius: 9px;
+    background-color: #3882f6;
+    color: #F9FAF8;
+}
