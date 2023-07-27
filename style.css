@@ -125,3 +125,10 @@ nav{
     font-weight: 600;
     align-self: flex-end;
 }
+.blue-box-container{
+    background-color: #fff;
+    height: 280px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
