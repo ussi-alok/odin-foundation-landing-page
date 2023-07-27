@@ -104,3 +104,24 @@ nav{
 .image-text-container p{
     display: inline-flex;
 }
+.quotes{
+    background-color: #E5E7EB;
+    color: #1F2937;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 17%;
+    gap: 10px;
+}
+.quotes > p:nth-child(1){
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter
+
+}
+.quotes > p:nth-child(2){
+    /* font-family: sans-serif; */
+    font-weight: 600;
+    align-self: flex-end;
+}
