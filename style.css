@@ -39,3 +39,9 @@ nav{
     margin: 80px;
     width: 65vw;
 }
+.header-contents-left{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 17px;
+}
